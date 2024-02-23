@@ -12,16 +12,4 @@ Travel Guides: Access comprehensive travel guides for each destination, includin
 User Reviews: Read and contribute user reviews to help fellow travelers make informed decisions about their trips.
 Responsive Design: Enjoy a seamless experience across devices with our fully responsive design.
 Technologies Used
-Frontend: HTML5, CSS3, JavaScript, Bootstrap
-Backend: Node.js, Express.js
-Database: MongoDB
-Booking Integration: APIs (e.g., flight booking API, hotel booking API)
-Deployment: Heroku
-Installation
-Clone the repository: git clone https://github.com/your-username/travelicious.git
-Navigate to the project directory: cd travelicious
-Install dependencies: npm install
-Start the server: npm start
-Visit http://localhost:3000 in your web browser to access the website.
-Contributing
-We welcome contributions from the community! Whether it's fixing bugs, adding new features, or improving documentation, feel free to submit a pull request.
+Frontend: HTML5, CSS3, JavaScript
